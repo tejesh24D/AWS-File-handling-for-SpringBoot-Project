@@ -1,0 +1,3 @@
+com\example\filehandling\service\S3Service.class
+com\example\filehandling\FilehandlingApplication.class
+com\example\filehandling\controller\FileController.class
